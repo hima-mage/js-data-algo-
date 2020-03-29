@@ -1,0 +1,12 @@
+# examples 
+- frequency counter 
+- multiple pointers
+- sliding window 
+- divide and conquer 
+- dynamic programming 
+- greedy algorithm 
+- backtracking 
+- so -- on . 
+
+
+------------------------

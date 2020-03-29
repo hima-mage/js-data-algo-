@@ -1,0 +1,80 @@
+# what is an algorithm ?
+- a process or set of steps to accomplish a certain task 
+- it's the foundation for beign successfully developer and problem solving , also interviews 
+
+--------------------------------------------------
+
+# how to u improve 
+1- devise  a plan for solving problems
+2- master common problem  solving pattern
+
+----------------------------------------
+
+# problem sovling 
+1- understand the problem 
+2- explore concrete examples 
+3- break it down 
+4- slove / simplify 
+5- look back and refactor
+
+
+------------------------------
+1- understand the problem 
+- can u state the problem in my own words
+- what is the input come into the problem 
+- what is the output - how it look like
+- u have enough info to get the output from the input
+- how i label the impotance part of data
+-
+
+------------------------------
+2- explore examples
+- start with simple examples 
+- progress to more complex examples 
+- explore examples with empty inputs
+- explore examples with invalid inputs
+
+
+
+--------------------------------
+3 - break it down 
+- basic component of ur sotution
+
+--------------------------------
+4- solve it or simplify 
+- skip the hard part to get it done 
+- find the core difficulty in what u are trying to do 
+- temporarily  ignore that difficulty 
+- write simplify soln 
+- then incorporate that difficulty back in 
+
+----------------------------------
+5- look back and refactor  
+- can u check the result 
+- can u derive the result differently 
+- can u understand it in glance
+- can u this solution in another prob 
+- can u improve performance 
+- can u refactor in antoher way 
+- how have other people solved this prob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

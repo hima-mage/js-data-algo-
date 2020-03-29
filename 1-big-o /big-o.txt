@@ -1,0 +1,39 @@
+big-o : 
+    how the runtime of an algorithm grows as the  numbers of the inputs growth
+ 
+- we will not care about the details , only the trend
+- we say that an algorithm is O(f(n)) if the number of the  simple operations the computer has to do 
+  eventually less than a constant times f(n) , as n increase
+
+ 
+- linear fn = n 
+- quadratic fn = n^2
+- constant fn = 1
+ 
+- o(n) nested in another O(n) is O(n^2)
+ 
+
+- rules of thumbs : 
+1- constans don't matter O(2n) = O(n)
+2- smaller term doesn't matter
+3- artihmetic operations as constant 
+4- variable assignment is constant 
+5- accessing elements in an array is constant ( key , index  )
+6- in loop complexity  is the length of this loop
+
+-------------------------------------------------------------
+# space complexity : 
+- how much additional memory do we need to allocate in order to run the code in our algorithm 
+
+# auxiliary space complexity 
+- to refer to space required by the algorithm , not including space taken up by the inputs
+
+# rules of thumbs 
+1- most primitive ( booleans , numbers , undefined , null ) are constant space
+2- strings required O(n) space , where n is the string length
+3- reference types  are generally O(n) , where n is the number of keys (obj) or length in (arr)
+4- 
+
+
+----------------------------------------------------------
+
