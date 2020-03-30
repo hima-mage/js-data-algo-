@@ -1,0 +1,18 @@
+Objects 
+- Describe what a searching algorithm is 
+- implementing linear search on arrays 
+- implementing binary search on sorted arrays 
+- implementing a native string searching algorithm 
+- implementing the KMP searching searching algorithm
+--------------------------------------------------------
+Linear search 
+- is search  where i check every element in array 
+- like indexOf , includes , find , findIndex
+--------------------------------------------------------
+binary search 
+- faster than linear 
+- eliminate half  of the array 
+- work only on  sorted array
+- we use divide and conquer 
+- best case O(1), worst case O(logn)
+- logn as every time i double it it increased only one step
